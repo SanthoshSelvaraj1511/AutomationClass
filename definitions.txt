@@ -1,0 +1,24 @@
+1)Class
+
+
+  A class — is a template used to create objects and to define object
+  data types and methods. Classes are categories, and objects are items within each category
+
+2)Object
+
+ A Java object is a member (also called an instance) of a Java class.
+ Each object has an identity, a behavior and a state. The state of an 
+object is stored in fields (variables), while methods (functions) display the object's behavior.
+
+3)static
+
+The static keyword in Java is used to share the same variable or method of a given class.
+ 
+Static is a keyword (meaning that it has a special meaning for the compiler),
+and it means that members of a class (a variable or a method) belong to the class itself. 
+This means that you don't need to create an object to access a class member
+
+4)constructor
+
+A constructor in Java is a special method that is used to initialize objects. 
+The constructor is called when an object of a class is created. it does not have any return type
